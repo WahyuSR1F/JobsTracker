@@ -101,6 +101,7 @@ Sumber agregator dikelola terpusat di **`config/jobSources.ts`** (metode 1: API/
 - `config/jobSources.ts` — konfigurasi sumber lowongan
 - `lib/db/`, `drizzle/` — skema & migrasi database
 
-## Lisensi
+  ## Developer By
 
-Belum ditentukan.
+Wahyu Sahri Rhamadhan
+https://www.wahyusahrirhamadhan.web.id/
